@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ul{
+    display: flex;
+    list-style: none;
+  padding-top: 40px;
+justify-content: space-around;
+  
+}
+.nevara{
+  border-radius: 30px;
+background: rgb(255, 1, 1);
+width: 200px;
+height: 40px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.first{
+    width: 400px;
+    height: 200px;
+}
+.second{
+    width: 400px;
+    height: 200px;
+}
+.third{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 54px;
+}
+.ota{
+    border-radius: 50px;
+background: rgb(52, 60, 86);    
+}
+.ten{
+
+display: flex;
+justify-content: center;
+margin-top: 40px;
+
+
+}
+.five{
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    background-color: black;
+    width: 264px;
+    height: 118px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ada{
+    background-color:rgb(97, 255, 0); ;
+    width: 300px;
+    height: 109px;
+   display: flex;
+   justify-content: space-between;
+  
+}
+.ww{
+    background-color: red;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 50px;
+    
+}
+.otas{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+   
+   
+   
